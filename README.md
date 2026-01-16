@@ -263,7 +263,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🌐 Live Demo
 
-[View Live Demo](#) *(https://musicwebproject-psi.vercel.app/)*
+[View Live Demo](#) (https://musicwebproject-psi.vercel.app/)
 
 ---
 
