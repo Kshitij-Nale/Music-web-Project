@@ -213,7 +213,6 @@ This project demonstrates proficiency in:
 - Edit `style.css` to modify colors, sizes, and animations
 - Main sections are clearly commented for easy navigation
 
----
 
 ## 🐛 Known Issues & Future Improvements
 
@@ -237,13 +236,11 @@ This project demonstrates proficiency in:
 
 Feel free to reach out for collaborations or questions!
 
----
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
 ## 🙏 Acknowledgments
 
@@ -266,7 +263,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🌐 Live Demo
 
-[View Live Demo](#) *(Add your deployed link )*
+[View Live Demo](#) *(https://musicwebproject-psi.vercel.app/)*
 
 ---
 
